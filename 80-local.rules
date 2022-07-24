@@ -1,0 +1,2 @@
+SUBSYSTEMS=="usb", ACTION=="remove", ATTRS{serial}=="your_device_id_here", RUN+="/home/username/bin/shutdown.sh"
+
