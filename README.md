@@ -8,7 +8,7 @@ I encrypt my laptop with LUKS, but if I ever use it in public, someone could phy
 
 With the pull out method, I can tie a usb key to my wrist (with a certain amount of leeway, say 30 centimeters). Then, if someone snatches my laptop away from me, the USB key will get removed, and the udev rule will force the computer to shutdown immediately, so the other party cannot access my data.
 
-[This is how Ross Ulbricht's computer was seized by the FBI](https://www.businessinsider.com/the-arrest-of-silk-road-mastermind-ross-ulbricht-2015-1). Unfortunately he didn't have such a system in place, so all the contents of the laptop became availale to the agents.
+[This is how Ross Ulbricht's laptop was seized by the FBI](https://www.businessinsider.com/the-arrest-of-silk-road-mastermind-ross-ulbricht-2015-1). Unfortunately he didn't have such a system in place, so all the contents of the laptop became availale to the agents.
 
 # How?
 
@@ -68,7 +68,7 @@ Nothing should happen if you unplug other devices, or even _plug in_ the "regist
 
 # Tips
 
-TODO (add stuff about physical considerations, e.g. tensile strenght and elasticity of cord).
+TODO (add stuff about physical considerations, e.g. tensile strength and elasticity of cord).
 
 # References
 
